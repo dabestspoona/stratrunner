@@ -2,6 +2,12 @@
 
 Automated execution script for Stratus Red Team attack techniques across multiple cloud platforms.
 
+## Requirements
+1. stratus - https://github.com/DataDog/stratus-red-team
+2. awscli - https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+3. kubectl - https://kubernetes.io/docs/tasks/tools/
+4. gcloud - https://docs.cloud.google.com/sdk/gcloud
+
 ## Synopsis
 
 ```bash
